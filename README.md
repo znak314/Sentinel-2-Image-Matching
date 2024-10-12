@@ -37,7 +37,7 @@ The algorithm does not work very accurately at different times of the year, but 
    Clone this repository to your local machine using:
 
    ```bash
-   git clone git clone https://github.com/znak314/Sentinel-2-Image-Matching.git
+git clone https://github.com/znak314/Sentinel-2-Image-Matching.git
    ```
 ### 2. **Install all necessary libraries**
    Install all dependencies by using:
