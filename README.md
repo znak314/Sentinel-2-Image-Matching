@@ -1,7 +1,7 @@
 # Task 2. Sentinel-2 image matching
 In this task I worked on the algorithm for matching satellite images
 ## Overview of the solution
-Data for this task was extracted from the [dataset](https://www.kaggle.com/datasets/isaienkov/deforestation-in-ukraine). Each image is read in grayscale mode, reducing the complexity of the data by eliminating color information. The images are resized to ensure that their maximum dimension (width or height) does not exceed a size of 1024 pixels. The processed images are saved as `JPEG` files in the output directory, using a 90% compression. Image matching was performed by using SIFT.
+Data for this task was extracted from the [dataset](https://www.kaggle.com/datasets/isaienkov/deforestation-in-ukraine). Each image is read in grayscale mode, reducing the complexity of the data by eliminating color information. The images are resized to ensure that their maximum dimension (width or height) does not exceed a size of 1024 pixels. The processed images are saved as `JPG` files in the output directory, using a 90% compression. Image matching was performed by using SIFT.
 
 ## SIFT Feature Matching Algorithm
 
